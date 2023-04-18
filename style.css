@@ -24,6 +24,7 @@
    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-transform: uppercase;
     font-size: 20px;
+    color:#fff
   }
   
   .app {
@@ -138,14 +139,14 @@
       gap: 1px;
     }
     .app .list__items .first__input {
-      width: 700px;
+      width: 200px;
       margin-left: 10px;
       padding: 5px 0;
       border-radius: 5px;
     }
    
     .app .list__items button {
-      width: 50%;
+      width: 20%;
      
       border-radius: 5px;
       
@@ -155,14 +156,14 @@
       border: 1px solid ;
       height: 40px;
       border-radius: 5px;
-      margin-left: 10px;
-      width: 400px;
+      margin-left: -30px;
+      width: 350px;
       outline: none;
       padding: 5px 0;
     }
     .app .list__items #items .text__span {
       margin-left: 10px;
-      width: 400px !important;
+      width: 350px !important;
       
     }
     
